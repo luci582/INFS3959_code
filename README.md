@@ -10,4 +10,9 @@ To run the Python code provided, you need to have several libraries installed in
 Open your terminal or command prompt and run the following command:
 
 ```bash
-pip install numpy pandas seaborn matplotlib scikit-learn xgboost
+pip install numpy pandas seaborn matplotlib scikit-learn xgboost 
+```
+OR
+```bash
+conda install numpy pandas seaborn matplotlib scikit-learn xgboost 
+```
